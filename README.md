@@ -1,2 +1,2 @@
 # curso-html5-2020
- CUrso de HTML. Apoie.me
+ Curso de HTML. Apoie.me/cursoemvideo
