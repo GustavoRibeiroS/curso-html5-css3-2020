@@ -1,0 +1,25 @@
+body{
+    background: #CCCCCC;
+}
+#banner{
+    width: 50%;
+}
+
+h1{
+   text-align: center; background: #b8bbbb;
+   border: 3px solid;
+   padding-top: 10px;
+   margin: 40px;
+}
+
+p{
+    text-align: center;
+}
+
+#first {
+    font-size: 20px;
+}
+
+strong{
+    color: #FF0000;
+}
