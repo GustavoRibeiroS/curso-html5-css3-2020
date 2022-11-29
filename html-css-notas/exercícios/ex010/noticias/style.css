@@ -1,11 +1,21 @@
 body{
-    background: #CCCCCC;
+    
 }
 #banner{
-    width: 50%;
+    width: 100%;
+    height: 500px;
 }
 
-h1{
+.principal{
+    background: #CCCCCC;
+    padding: 30px;
+}
+
+.titulo-principal{
+    padding-left: 20px;
+}
+
+h2{
    text-align: center; background: #b8bbbb;
    border: 3px solid;
    padding-top: 10px;
@@ -16,10 +26,33 @@ p{
     text-align: center;
 }
 
-#first {
+#first { /*id - itens únicos*/
     font-size: 20px;
 }
 
 strong{
     color: #FF0000;
+}
+
+h3{
+    text-align: center
+}
+
+.downloads{
+    background: #ffffff;
+    padding: 20px;
+}
+
+.baixar{ /*classe - itens repitidos*/
+    font-style: italic;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 3%;
+}
+
+.imagemDownload{
+    width: 50%;
 }
